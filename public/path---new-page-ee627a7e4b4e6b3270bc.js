@@ -1,0 +1,2 @@
+webpackJsonp([0x5d16ea1533fc],{476:function(t,o){t.exports={data:{site:{siteMetadata:{title:"Johnny Packard Portfolio",description:"Portfolio website of Johnny Packard"}}},pathContext:{}}}});
+//# sourceMappingURL=path---new-page-ee627a7e4b4e6b3270bc.js.map

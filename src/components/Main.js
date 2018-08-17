@@ -3,6 +3,7 @@ import { Document, Page } from 'react-pdf'
 import JohnnyPic1 from '../images/JohnnyPic1.jpg'
 import solo from '../images/solo.png'
 import jpResume from '../images/jpResume.pdf'
+import GUSU from '../images/GUSU.png'
 
 class Main extends React.Component {
   state= {
@@ -37,6 +38,9 @@ class Main extends React.Component {
           <span className="image main"><img src={solo} alt="" /></span>
           <p>MPLS Trans Resources is a webapp which offers safe, respectful resources to the Minneapolis Transgender community. Built as a solo project while attending Prime Digital Academy.</p>
           <p>Technologies used: React, Redux, PostgreSQL, Node.js, Express, Passport, Semantic-UI, Git, GitHub, and built on Visual Studio Code</p>
+          <span className="image main"><img src={GUSU} alt="" /></span>
+          <p>The Spinal Cord Injury Research Map Database (SCIRMD) is an application which allows users to discover research studies and other resources for people living with Spinal Cord Injuries and/or Traumatic Brain Injuries. Passive Users have the ability to register for authenticated accounts, upon registration, users are able to submit research projects and local resources of which they are aware. </p>
+          <p>Technologies used: React, Redux, SQL, Node.js, Express, Passport, Google Maps API, Material-UI, Git, GitHub, and built on Visual Studio Code</p>
           {close}
         </article>
 

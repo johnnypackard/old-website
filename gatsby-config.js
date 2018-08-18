@@ -42,5 +42,5 @@ module.exports = {
 }, 
 
 module.exports = {
-  pathPrefix: `/johnnypackard.github.io`,
+  pathPrefix: `https://github.com/johnnypackard/johnnypackard.github.io`,
 }

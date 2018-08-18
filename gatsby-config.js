@@ -4,7 +4,7 @@ module.exports = {
     author: "Johnny Packard",
     description: "Portfolio website of Johnny Packard"
   },
-
+  pathPrefix: '/johnnypackard.github.io',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -39,8 +39,4 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`
   ],
-}, 
-
-module.exports = {
-  pathPrefix: `https://github.com/johnnypackard/johnnypackard.github.io`,
 }

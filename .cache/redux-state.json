@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "377590936ada7f32f8873b9c2b60b15c",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -964,7 +954,7 @@
       "resolve": "/Users/johnnypackard/Portfolio/johnnypackard.github.io",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "2a9879029a6de9873d9c40530e52606d",
+      "version": "06c835552520d18b09b3082576e5a061",
       "pluginOptions": {
         "plugins": []
       },
@@ -1059,7 +1049,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e613d8131a2d63a532096eae7c3a2743",
+        "contentDigest": "a42c4a10e44b1138f0dbd685f2994b31",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1149,16 +1139,14 @@
         "author": "Johnny Packard",
         "description": "Portfolio website of Johnny Packard"
       },
-      "port": "8000",
-      "host": "localhost",
-      "pathPrefix": "/johnnypackard.github.io",
+      "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-17T16:11:43.471Z",
+      "buildTime": "2018-08-17T19:07:21.631Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4d928aa85e1179cf31481673e29670f4",
+        "contentDigest": "ec58eeb9c33f8672a74bf675b5f41e14",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1168,7 +1156,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "73c4ba3706f7bfea6d75a9dfca462422",
+        "contentDigest": "9ba41cb23cf2da48fa7bfe6841ccb5e6",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1177,11 +1165,11 @@
       "absolutePath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/posts",
       "relativePath": "",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2018-07-24T21:46:27.995Z",
-      "accessTime": "2018-08-17T16:11:45.213Z",
-      "changeTime": "2018-07-24T21:46:27.995Z",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-08-17T16:15:57.702Z",
+      "accessTime": "2018-08-17T19:07:23.022Z",
+      "changeTime": "2018-08-17T16:15:57.702Z",
       "birthTime": "2018-07-24T21:46:27.994Z",
       "root": "/",
       "dir": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src",
@@ -1191,20 +1179,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 3,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 5354381,
       "blocks": 0,
-      "atimeMs": 1534522305212.971,
-      "mtimeMs": 1532468787995.2375,
-      "ctimeMs": 1532468787995.2375,
+      "atimeMs": 1534532843022.066,
+      "mtimeMs": 1534522557701.6743,
+      "ctimeMs": 1534522557701.6743,
       "birthtimeMs": 1532468787993.9558,
-      "atime": "2018-08-17T16:11:45.213Z",
-      "mtime": "2018-07-24T21:46:27.995Z",
-      "ctime": "2018-07-24T21:46:27.995Z",
+      "atime": "2018-08-17T19:07:23.022Z",
+      "mtime": "2018-08-17T16:15:57.702Z",
+      "ctime": "2018-08-17T16:15:57.702Z",
       "birthtime": "2018-07-24T21:46:27.994Z"
     },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/posts/hello-world absPath of file": {
@@ -1212,7 +1200,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6410fa8a1e72ae2bddd17ff912af03b6",
+        "contentDigest": "94123e4582bb355a6183eeca77191649",
         "type": "Directory",
         "description": "Directory \"src/posts/hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1224,7 +1212,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-07-24T21:46:27.994Z",
-      "accessTime": "2018-08-17T16:11:45.216Z",
+      "accessTime": "2018-08-17T19:07:23.024Z",
       "changeTime": "2018-07-24T21:46:27.994Z",
       "birthTime": "2018-07-24T21:46:27.994Z",
       "root": "/",
@@ -1242,11 +1230,11 @@
       "blksize": 4194304,
       "ino": 5354382,
       "blocks": 0,
-      "atimeMs": 1534522305215.7703,
+      "atimeMs": 1534532843023.7168,
       "mtimeMs": 1532468787994.3916,
       "ctimeMs": 1532468787994.3916,
       "birthtimeMs": 1532468787994.0703,
-      "atime": "2018-08-17T16:11:45.216Z",
+      "atime": "2018-08-17T19:07:23.024Z",
       "mtime": "2018-07-24T21:46:27.994Z",
       "ctime": "2018-07-24T21:46:27.994Z",
       "birthtime": "2018-07-24T21:46:27.994Z"
@@ -1271,7 +1259,7 @@
       "size": 866,
       "prettySize": "866 B",
       "modifiedTime": "2018-07-24T21:46:27.994Z",
-      "accessTime": "2018-08-08T19:44:13.303Z",
+      "accessTime": "2018-08-17T19:06:43.718Z",
       "changeTime": "2018-07-24T21:46:27.994Z",
       "birthTime": "2018-07-24T21:46:27.994Z",
       "root": "/",
@@ -1289,11 +1277,11 @@
       "blksize": 4194304,
       "ino": 5354383,
       "blocks": 8,
-      "atimeMs": 1533757453302.6404,
+      "atimeMs": 1534532803718.1062,
       "mtimeMs": 1532468787994.465,
       "ctimeMs": 1532468787994.465,
       "birthtimeMs": 1532468787994.3838,
-      "atime": "2018-08-08T19:44:13.303Z",
+      "atime": "2018-08-17T19:06:43.718Z",
       "mtime": "2018-07-24T21:46:27.994Z",
       "ctime": "2018-07-24T21:46:27.994Z",
       "birthtime": "2018-07-24T21:46:27.994Z"
@@ -1324,7 +1312,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8223d0dbb62731dffc9b483aa6ee289e",
+        "contentDigest": "7c6a5cb75ee4768fb3cd440447855144",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1333,11 +1321,11 @@
       "absolutePath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 416,
-      "prettySize": "416 B",
-      "modifiedTime": "2018-08-08T00:52:24.731Z",
-      "accessTime": "2018-08-17T16:11:45.225Z",
-      "changeTime": "2018-08-08T00:52:24.731Z",
+      "size": 448,
+      "prettySize": "448 B",
+      "modifiedTime": "2018-08-17T16:14:57.243Z",
+      "accessTime": "2018-08-17T19:07:23.059Z",
+      "changeTime": "2018-08-17T16:14:57.243Z",
       "birthTime": "2018-07-24T21:46:27.972Z",
       "root": "/",
       "dir": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src",
@@ -1347,20 +1335,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 13,
+      "nlink": 14,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 5354364,
       "blocks": 0,
-      "atimeMs": 1534522305224.5427,
-      "mtimeMs": 1533689544731.333,
-      "ctimeMs": 1533689544731.333,
+      "atimeMs": 1534532843059.2295,
+      "mtimeMs": 1534522497242.844,
+      "ctimeMs": 1534522497242.844,
       "birthtimeMs": 1532468787971.607,
-      "atime": "2018-08-17T16:11:45.225Z",
-      "mtime": "2018-08-08T00:52:24.731Z",
-      "ctime": "2018-08-08T00:52:24.731Z",
+      "atime": "2018-08-17T19:07:23.059Z",
+      "mtime": "2018-08-17T16:14:57.243Z",
+      "ctime": "2018-08-17T16:14:57.243Z",
       "birthtime": "2018-07-24T21:46:27.972Z"
     },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/johnnySing.jpg absPath of file": {
@@ -1383,7 +1371,7 @@
       "size": 61772,
       "prettySize": "61.8 kB",
       "modifiedTime": "2018-07-24T21:46:27.984Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:06:43.718Z",
       "changeTime": "2018-07-24T21:46:27.984Z",
       "birthTime": "2018-07-24T21:46:27.983Z",
       "root": "/",
@@ -1401,14 +1389,61 @@
       "blksize": 4194304,
       "ino": 5354369,
       "blocks": 128,
-      "atimeMs": 1533757453302.318,
+      "atimeMs": 1534532803717.5356,
       "mtimeMs": 1532468787984.2847,
       "ctimeMs": 1532468787984.2847,
       "birthtimeMs": 1532468787983.4443,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:06:43.718Z",
       "mtime": "2018-07-24T21:46:27.984Z",
       "ctime": "2018-07-24T21:46:27.984Z",
       "birthtime": "2018-07-24T21:46:27.983Z"
+    },
+    "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file": {
+      "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file",
+      "children": [
+        "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/overlay.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png",
+      "relativePath": "overlay.png",
+      "extension": "png",
+      "size": 4385,
+      "prettySize": "4.38 kB",
+      "modifiedTime": "2018-07-24T21:46:27.986Z",
+      "accessTime": "2018-08-17T19:06:49.478Z",
+      "changeTime": "2018-07-24T21:46:27.986Z",
+      "birthTime": "2018-07-24T21:46:27.986Z",
+      "root": "/",
+      "dir": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images",
+      "base": "overlay.png",
+      "ext": ".png",
+      "name": "overlay",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 5354371,
+      "blocks": 16,
+      "atimeMs": 1534532809477.7769,
+      "mtimeMs": 1532468787986.4585,
+      "ctimeMs": 1532468787986.4585,
+      "birthtimeMs": 1532468787986.3335,
+      "atime": "2018-08-17T19:06:49.478Z",
+      "mtime": "2018-07-24T21:46:27.986Z",
+      "ctime": "2018-07-24T21:46:27.986Z",
+      "birthtime": "2018-07-24T21:46:27.986Z"
     },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/pic01.jpg absPath of file": {
       "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/pic01.jpg absPath of file",
@@ -1430,7 +1465,7 @@
       "size": 10064,
       "prettySize": "10.1 kB",
       "modifiedTime": "2018-07-24T21:46:27.987Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:06:43.718Z",
       "changeTime": "2018-07-24T21:46:27.987Z",
       "birthTime": "2018-07-24T21:46:27.987Z",
       "root": "/",
@@ -1448,11 +1483,11 @@
       "blksize": 4194304,
       "ino": 5354372,
       "blocks": 24,
-      "atimeMs": 1533757453302.3909,
+      "atimeMs": 1534532803717.6023,
       "mtimeMs": 1532468787986.7559,
       "ctimeMs": 1532468787986.7559,
       "birthtimeMs": 1532468787986.596,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:06:43.718Z",
       "mtime": "2018-07-24T21:46:27.987Z",
       "ctime": "2018-07-24T21:46:27.987Z",
       "birthtime": "2018-07-24T21:46:27.987Z"
@@ -1477,7 +1512,7 @@
       "size": 8904,
       "prettySize": "8.9 kB",
       "modifiedTime": "2018-07-24T21:46:27.987Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:06:43.718Z",
       "changeTime": "2018-07-24T21:46:27.987Z",
       "birthTime": "2018-07-24T21:46:27.987Z",
       "root": "/",
@@ -1495,11 +1530,11 @@
       "blksize": 4194304,
       "ino": 5354373,
       "blocks": 24,
-      "atimeMs": 1533757453302.4072,
+      "atimeMs": 1534532803717.6257,
       "mtimeMs": 1532468787987.0518,
       "ctimeMs": 1532468787987.0518,
       "birthtimeMs": 1532468787986.886,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:06:43.718Z",
       "mtime": "2018-07-24T21:46:27.987Z",
       "ctime": "2018-07-24T21:46:27.987Z",
       "birthtime": "2018-07-24T21:46:27.987Z"
@@ -1524,7 +1559,7 @@
       "size": 9697,
       "prettySize": "9.7 kB",
       "modifiedTime": "2018-07-24T21:46:27.988Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:06:43.718Z",
       "changeTime": "2018-07-24T21:46:27.988Z",
       "birthTime": "2018-07-24T21:46:27.987Z",
       "root": "/",
@@ -1542,61 +1577,14 @@
       "blksize": 4194304,
       "ino": 5354374,
       "blocks": 24,
-      "atimeMs": 1533757453302.4236,
+      "atimeMs": 1534532803717.648,
       "mtimeMs": 1532468787987.6357,
       "ctimeMs": 1532468787987.6357,
       "birthtimeMs": 1532468787987.1675,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:06:43.718Z",
       "mtime": "2018-07-24T21:46:27.988Z",
       "ctime": "2018-07-24T21:46:27.988Z",
       "birthtime": "2018-07-24T21:46:27.987Z"
-    },
-    "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file": {
-      "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file",
-      "children": [
-        "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"src/images/overlay.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png",
-      "relativePath": "overlay.png",
-      "extension": "png",
-      "size": 4385,
-      "prettySize": "4.38 kB",
-      "modifiedTime": "2018-07-24T21:46:27.986Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
-      "changeTime": "2018-07-24T21:46:27.986Z",
-      "birthTime": "2018-07-24T21:46:27.986Z",
-      "root": "/",
-      "dir": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images",
-      "base": "overlay.png",
-      "ext": ".png",
-      "name": "overlay",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 5354371,
-      "blocks": 16,
-      "atimeMs": 1533757453302.3738,
-      "mtimeMs": 1532468787986.4585,
-      "ctimeMs": 1532468787986.4585,
-      "birthtimeMs": 1532468787986.3335,
-      "atime": "2018-08-08T19:44:13.302Z",
-      "mtime": "2018-07-24T21:46:27.986Z",
-      "ctime": "2018-07-24T21:46:27.986Z",
-      "birthtime": "2018-07-24T21:46:27.986Z"
     },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/butterpic.jpg absPath of file": {
       "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/butterpic.jpg absPath of file",
@@ -1618,7 +1606,7 @@
       "size": 75675,
       "prettySize": "75.7 kB",
       "modifiedTime": "2018-07-24T21:46:27.983Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:06:43.718Z",
       "changeTime": "2018-07-24T21:46:27.983Z",
       "birthTime": "2018-07-24T21:46:27.983Z",
       "root": "/",
@@ -1636,11 +1624,11 @@
       "blksize": 4194304,
       "ino": 5354368,
       "blocks": 152,
-      "atimeMs": 1533757453302.2974,
+      "atimeMs": 1534532803717.5132,
       "mtimeMs": 1532468787983.3203,
       "ctimeMs": 1532468787983.3203,
       "birthtimeMs": 1532468787982.775,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:06:43.718Z",
       "mtime": "2018-07-24T21:46:27.983Z",
       "ctime": "2018-07-24T21:46:27.983Z",
       "birthtime": "2018-07-24T21:46:27.983Z"
@@ -1651,6 +1639,16 @@
       "parent": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/johnnySing.jpg absPath of file",
       "internal": {
         "contentDigest": "9c26abfca458681e39f09d9029f675f9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file >> ImageSharp": {
+      "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file",
+      "internal": {
+        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -1685,16 +1683,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file >> ImageSharp": {
-      "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/overlay.png absPath of file",
-      "internal": {
-        "contentDigest": "c2d2f4d92c31072bb430e0ed0a609294",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/butterpic.jpg absPath of file >> ImageSharp": {
       "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/butterpic.jpg absPath of file >> ImageSharp",
       "children": [],
@@ -1725,7 +1713,7 @@
       "size": 307733,
       "prettySize": "308 kB",
       "modifiedTime": "2018-07-24T21:46:27.980Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:06:49.478Z",
       "changeTime": "2018-07-24T21:46:27.980Z",
       "birthTime": "2018-07-24T21:46:27.977Z",
       "root": "/",
@@ -1743,24 +1731,14 @@
       "blksize": 4194304,
       "ino": 5354366,
       "blocks": 608,
-      "atimeMs": 1533757453302.2107,
+      "atimeMs": 1534532809477.6956,
       "mtimeMs": 1532468787979.84,
       "ctimeMs": 1532468787979.84,
       "birthtimeMs": 1532468787976.7004,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:06:49.478Z",
       "mtime": "2018-07-24T21:46:27.980Z",
       "ctime": "2018-07-24T21:46:27.980Z",
       "birthtime": "2018-07-24T21:46:27.977Z"
-    },
-    "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg.jpg absPath of file",
-      "internal": {
-        "contentDigest": "902dae16344a32f1efffaa205b87ec6e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/jpResume.pdf absPath of file": {
       "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/jpResume.pdf absPath of file",
@@ -1780,7 +1758,7 @@
       "size": 350908,
       "prettySize": "351 kB",
       "modifiedTime": "2018-08-08T00:52:24.731Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:07:22.964Z",
       "changeTime": "2018-08-08T00:52:24.732Z",
       "birthTime": "2018-08-08T00:51:57.145Z",
       "root": "/",
@@ -1798,14 +1776,24 @@
       "blksize": 4194304,
       "ino": 6127046,
       "blocks": 688,
-      "atimeMs": 1533757453302.338,
+      "atimeMs": 1534532842963.6157,
       "mtimeMs": 1533689544731,
       "ctimeMs": 1533689544731.802,
       "birthtimeMs": 1533689517144.7336,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:07:22.964Z",
       "mtime": "2018-08-08T00:52:24.731Z",
       "ctime": "2018-08-08T00:52:24.732Z",
       "birthtime": "2018-08-08T00:51:57.145Z"
+    },
+    "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "902dae16344a32f1efffaa205b87ec6e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg1.jpg absPath of file": {
       "id": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/bg1.jpg absPath of file",
@@ -1827,7 +1815,7 @@
       "size": 692828,
       "prettySize": "693 kB",
       "modifiedTime": "2018-07-24T21:46:27.983Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:06:43.717Z",
       "changeTime": "2018-07-24T21:46:27.983Z",
       "birthTime": "2018-07-24T21:46:27.980Z",
       "root": "/",
@@ -1845,11 +1833,11 @@
       "blksize": 4194304,
       "ino": 5354367,
       "blocks": 1360,
-      "atimeMs": 1533757453302.245,
+      "atimeMs": 1534532803717.4907,
       "mtimeMs": 1532468787982.6038,
       "ctimeMs": 1532468787982.6038,
       "birthtimeMs": 1532468787980.0066,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:06:43.717Z",
       "mtime": "2018-07-24T21:46:27.983Z",
       "ctime": "2018-07-24T21:46:27.983Z",
       "birthtime": "2018-07-24T21:46:27.980Z"
@@ -1884,7 +1872,7 @@
       "size": 809145,
       "prettySize": "809 kB",
       "modifiedTime": "2018-07-24T21:46:27.993Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:07:22.963Z",
       "changeTime": "2018-07-24T21:46:27.993Z",
       "birthTime": "2018-07-24T21:46:27.988Z",
       "root": "/",
@@ -1902,11 +1890,11 @@
       "blksize": 4194304,
       "ino": 5354375,
       "blocks": 1584,
-      "atimeMs": 1533757453302.4404,
+      "atimeMs": 1534532842963.2996,
       "mtimeMs": 1532468787992.527,
       "ctimeMs": 1532468787992.527,
       "birthtimeMs": 1532468787987.8896,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:07:22.963Z",
       "mtime": "2018-07-24T21:46:27.993Z",
       "ctime": "2018-07-24T21:46:27.993Z",
       "birthtime": "2018-07-24T21:46:27.988Z"
@@ -1941,7 +1929,7 @@
       "size": 1683120,
       "prettySize": "1.68 MB",
       "modifiedTime": "2018-08-08T00:39:51.108Z",
-      "accessTime": "2018-08-08T19:44:13.302Z",
+      "accessTime": "2018-08-17T19:07:22.963Z",
       "changeTime": "2018-08-08T00:39:51.109Z",
       "birthTime": "2018-08-08T00:39:33.521Z",
       "root": "/",
@@ -1959,11 +1947,11 @@
       "blksize": 4194304,
       "ino": 6056517,
       "blocks": 3288,
-      "atimeMs": 1533757453302.0874,
+      "atimeMs": 1534532842962.9668,
       "mtimeMs": 1533688791108,
       "ctimeMs": 1533688791109.0198,
       "birthtimeMs": 1533688773520.9006,
-      "atime": "2018-08-08T19:44:13.302Z",
+      "atime": "2018-08-17T19:07:22.963Z",
       "mtime": "2018-08-08T00:39:51.108Z",
       "ctime": "2018-08-08T00:39:51.109Z",
       "birthtime": "2018-08-08T00:39:33.521Z"
@@ -1976,111 +1964,6 @@
         "contentDigest": "45e886dc4b2f5f9cd57fcc408c75ced3",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /hello-world/": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
-      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
-      "id": "SitePage /hello-world/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "011cc95b0534cf49193d42f95e1c6f49",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /my-second-post/": {
-      "layout": "index",
-      "jsonName": "my-second-post.json",
-      "internalComponentName": "ComponentMySecondPost",
-      "path": "/my-second-post/",
-      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
-      "id": "SitePage /my-second-post/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5aad3d9442c64497b99233d1eb45050b",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hi-folks/": {
-      "layout": "index",
-      "jsonName": "hi-folks.json",
-      "internalComponentName": "ComponentHiFolks",
-      "path": "/hi-folks/",
-      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
-      "id": "SitePage /hi-folks/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fa251b293a93c40f281495237a3bab98",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bc2bbbe486a1eab68f4862789bb68959",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /new-page/": {
-      "layout": "index",
-      "jsonName": "new-page.json",
-      "internalComponentName": "ComponentNewPage",
-      "path": "/new-page/",
-      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/new-page.js",
-      "componentChunkName": "component---src-pages-new-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/new-page.js",
-      "id": "SitePage /new-page/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "525ba1be25a508e2bba3695e00d3b02d",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
       }
     },
     "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/images/GUSU.png absPath of file": {
@@ -2103,7 +1986,7 @@
       "size": 1823140,
       "prettySize": "1.82 MB",
       "modifiedTime": "2018-08-17T16:14:57.250Z",
-      "accessTime": "2018-08-17T16:14:57.332Z",
+      "accessTime": "2018-08-17T19:07:22.964Z",
       "changeTime": "2018-08-17T16:14:57.251Z",
       "birthTime": "2018-08-17T16:14:57.243Z",
       "root": "/",
@@ -2121,11 +2004,11 @@
       "blksize": 4194304,
       "ino": 6580429,
       "blocks": 3568,
-      "atimeMs": 1534522497331.9583,
+      "atimeMs": 1534532842963.937,
       "mtimeMs": 1534522497250.0051,
       "ctimeMs": 1534522497251.082,
       "birthtimeMs": 1534522497242.824,
-      "atime": "2018-08-17T16:14:57.332Z",
+      "atime": "2018-08-17T19:07:22.964Z",
       "mtime": "2018-08-17T16:14:57.250Z",
       "ctime": "2018-08-17T16:14:57.251Z",
       "birthtime": "2018-08-17T16:14:57.243Z"
@@ -2139,35 +2022,86 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f3852e4d90c53242d8e255153ae93d81",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2bc269fca805dce34feba26a14bed91c",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /new-page/": {
+      "layout": "index",
+      "jsonName": "new-page.json",
+      "internalComponentName": "ComponentNewPage",
+      "path": "/new-page/",
+      "component": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/new-page.js",
+      "componentChunkName": "component---src-pages-new-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/pages/new-page.js",
+      "id": "SitePage /new-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "20b1b22340e6e44c5a55bc1026825115",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "6671e7c6c62e7e010292714d24b8cbcd"
+    "PLUGINS_HASH": "70c021da184e41fdd334d9beefccf1d2"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
         "/hello-world/",
-        "/my-second-post/",
-        "/hi-folks/",
         "/new-page/",
         "LAYOUT___index"
       ],
       "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
         "/hello-world/"
-      ],
-      "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
-        "/my-second-post/"
-      ],
-      "/Users/johnnypackard/Portfolio/johnnypackard.github.io/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark": [
-        "/hi-folks/"
       ]
     },
-    "connections": {
-      "SitePage": [
-        "/dev-404-page/"
-      ]
-    }
+    "connections": {}
   }
 }

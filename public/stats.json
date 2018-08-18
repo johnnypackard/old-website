@@ -1,9 +1,5 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-5a6b3e6d32a61752f9b3.js",
-      "path---my-second-post-5a6b3e6d32a61752f9b3.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-23a66785a9b9f5e08795.js",
       "component---src-pages-index-js-23a66785a9b9f5e08795.js.map"
@@ -21,12 +17,8 @@
       "component---src-templates-blog-post-js-b6d7c593af478a65a1df.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-099f521addf1cdb49a21.js",
-      "component---src-layouts-index-js-099f521addf1cdb49a21.js.map"
-    ],
-    "path---hi-folks": [
-      "path---hi-folks-11e973fb51a2435efb79.js",
-      "path---hi-folks-11e973fb51a2435efb79.js.map"
+      "component---src-layouts-index-js-4e29ba5f2e2bb33a621c.js",
+      "component---src-layouts-index-js-4e29ba5f2e2bb33a621c.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -45,8 +37,8 @@
       "component---src-pages-new-page-js-af98953291b07e75c757.js.map"
     ],
     "app": [
-      "app-bcbba9c2d7338513c3ba.js",
-      "app-bcbba9c2d7338513c3ba.js.map"
+      "app-e5e1a1da58cde9273cce.js",
+      "app-e5e1a1da58cde9273cce.js.map"
     ]
   }
 }
